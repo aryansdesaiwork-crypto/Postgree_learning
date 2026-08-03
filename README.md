@@ -1,4 +1,4 @@
-# Postgree_learning
+Day 1 Postgree_learning
 
 1.created TABLE
 2.Inserted values 
